@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tree with Leaves (low-Poly)
+* source:	https://sketchfab.com/3d-models/tree-with-leaves-low-poly-9fdb984f31124de08ee0472ad2e1e2e6
+* author:	Sereib (https://sketchfab.com/Sereib)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tree with Leaves (low-Poly)" (https://sketchfab.com/3d-models/tree-with-leaves-low-poly-9fdb984f31124de08ee0472ad2e1e2e6) by Sereib (https://sketchfab.com/Sereib) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

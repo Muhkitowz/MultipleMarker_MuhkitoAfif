@@ -1,0 +1,8 @@
+Model Information:
+* title:	Dark Tree
+* source:	https://sketchfab.com/3d-models/dark-tree-67b73be720e6404a8e4406476bb71eba
+* author:	frankesalgado87 (https://sketchfab.com/frankesalgado87)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

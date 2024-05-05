@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low poly grass lods 1
+* source:	https://sketchfab.com/3d-models/low-poly-grass-lods-1-670def5b5c914654a03470ebe75846dc
+* author:	Digital screen official (https://sketchfab.com/ck212575)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

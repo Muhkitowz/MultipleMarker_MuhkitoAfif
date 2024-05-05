@@ -1,0 +1,11 @@
+Model Information:
+* title:	stylized tree mushroom
+* source:	https://sketchfab.com/3d-models/stylized-tree-mushroom-ab75f2e77f6d45979cd355bd328be546
+* author:	lord_DMI (https://sketchfab.com/lord_DMI)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "stylized tree mushroom" (https://sketchfab.com/3d-models/stylized-tree-mushroom-ab75f2e77f6d45979cd355bd328be546) by lord_DMI (https://sketchfab.com/lord_DMI) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
